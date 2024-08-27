@@ -1,0 +1,202 @@
+{
+  "medicines": [
+      {
+          "id": "1",
+          "name": "Paracetamol",
+          "description1": "Paracetamol is commonly used to relieve mild to moderate pain and reduce fever. It is effective for headaches, muscle aches, and toothaches. Unlike NSAIDs, it does not reduce inflammation.",
+          "description2": "It is well-tolerated but should be used with caution in those with liver conditions. Overdosing can lead to liver damage.",
+          "description3": "Take every 4-6 hours as needed but do not exceed 4,000 mg per day. Consult a doctor if you have liver issues or consume alcohol regularly.",
+          "warnings": "Avoid if allergic to acetaminophen. Do not exceed the recommended dose to prevent liver damage.",
+          "when_to_take": "Can be taken every 4-6 hours as needed. Do not exceed 4,000 mg per day.",
+          "expiration_days": 365,
+          "image_url": "https://ubuntupharmacy.com/wp-content/uploads/2023/05/Parcetamol.jpg"
+      },
+      {
+          "id": "2",
+          "name": "Disprine",
+          "description1": "Disprine relieves pain and inflammation from arthritis, muscle pain, and menstrual cramps. It contains acetylsalicylic acid, which blocks pain-causing substances in the body.",
+          "description2": "It is effective for temporary relief but use cautiously if you have gastrointestinal issues or aspirin allergies. Long-term use may cause complications.",
+          "description3": "Follow dosing guidelines to avoid side effects. Consult a doctor if you have gastrointestinal problems or are pregnant.",
+          "warnings": "Avoid in case of aspirin allergy. Consult your doctor if you have gastrointestinal issues or are pregnant.",
+          "when_to_take": "Take as directed, usually every 4-6 hours as needed, but do not exceed the recommended dose.",
+          "expiration_days": 365,
+          "image_url": "https://m.media-amazon.com/images/I/51Jo57LVWDL.jpg"
+      },
+      {
+          "id": "3",
+          "name": "Diclo Wins Plus",
+          "description1": "Diclo Wins Plus combines diclofenac with other agents to relieve pain and inflammation from conditions like arthritis and muscle pain. It reduces pain and swelling.",
+          "description2": "The medication may cause gastrointestinal discomfort or kidney issues if used long-term. Use as directed and consult a doctor for underlying health conditions.",
+          "description3": "Take with food to reduce stomach upset. Follow the dosage instructions provided by your doctor.",
+          "warnings": "Not recommended for patients with gastrointestinal problems. Use with caution if you have renal impairment.",
+          "when_to_take": "Take with food to minimize stomach upset. Follow the dosage instructions provided by your doctor.",
+          "expiration_days": 365,
+          "image_url": "https://www.netmeds.com/images/product-v1/600x600/369930/diclowin_plus_tablet_10s_0_1.jpg"
+      },
+      {
+          "id": "4",
+          "name": "Combiflam",
+          "description1": "Combiflam combines ibuprofen and paracetamol to provide pain relief and reduce inflammation. It is effective for headaches, muscle pain, and menstrual cramps.",
+          "description2": "The dual action helps address pain and inflammation. Use with caution in individuals with gastrointestinal or renal issues.",
+          "description3": "Take every 6-8 hours as needed. Do not exceed the recommended dose to avoid adverse effects.",
+          "warnings": "Do not use if allergic to NSAIDs or if you have gastrointestinal problems. Use only as directed.",
+          "when_to_take": "Take every 6-8 hours as needed. Do not exceed the recommended dose to prevent side effects.",
+          "expiration_days": 365,
+          "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/1/HG/LO/KU/8786141/com0004-500x500.jpg"
+      },
+      {
+          "id": "5",
+          "name": "Nomokes",
+          "description1": "Nomokes is an NSAID used to relieve pain and inflammation from arthritis and muscle pain. It helps reduce pain and swelling.",
+          "description2": "It should be taken with food to avoid stomach upset. Long-term use requires medical supervision due to potential side effects.",
+          "description3": "Monitor for gastrointestinal or renal side effects and consult a doctor if you have pre-existing conditions.",
+          "warnings": "Avoid if allergic to any component. Consult a doctor if pregnant, breastfeeding, or have pre-existing conditions.",
+          "when_to_take": "Follow the dosage instructions provided by your healthcare provider, usually with food.",
+          "expiration_days": 365,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLenNzayYzwFWXLJzDfoReYdF5pdDfC_KERA&s"
+      },
+      {
+          "id": "6",
+          "name": "Vicksaction 500",
+          "description1": "Vicksaction 500 alleviates cold and flu symptoms like congestion, cough, and sore throat. It combines multiple ingredients for relief.",
+          "description2": "Use according to instructions to avoid overuse. Be cautious of potential drowsiness.",
+          "description3": "Consult a doctor if symptoms persist or if you have other health concerns.",
+          "warnings": "May cause drowsiness. Avoid in children under 12 years. Consult a doctor for prolonged symptoms.",
+          "when_to_take": "Take every 4-6 hours as needed. Do not exceed the maximum daily dose.",
+          "expiration_days": 365,
+          "image_url": "https://images.ctfassets.net/umpxkz97ty8t/aIwP4Ll5m4jYR3qAlaqGB/901821b7dc61e1fdd2043acfa46ff81e/vicks-india-veer.jpg"
+      },
+      {
+          "id": "7",
+          "name": "Avil",
+          "description1": "Avil is an antihistamine used for allergic reactions, reducing symptoms like sneezing, itching, and rashes. It can cause drowsiness.",
+          "description2": "Avoid operating vehicles or machinery due to potential sedative effects. Alcohol can enhance these effects.",
+          "description3": "Consult with your healthcare provider for appropriate use and potential interactions with other medications.",
+          "warnings": "May cause drowsiness. Avoid alcohol. Consult your doctor if you have chronic conditions.",
+          "when_to_take": "Typically taken once or twice daily as needed for allergy symptoms.",
+          "expiration_days": 365,
+          "image_url": "https://www.netmeds.com/images/product-v1/600x600/405819/avil_22_5mg_injection_10x2ml_0_0.jpg"
+      },
+      {
+          "id": "8",
+          "name": "Citragen",
+          "description1": "Citragen provides relief from gastric discomfort and indigestion by neutralizing stomach acid and alleviating heartburn.",
+          "description2": "It should be taken after meals to aid digestion and prevent discomfort. Follow dosing recommendations carefully.",
+          "description3": "Consult with a healthcare provider if symptoms persist or if you have gastrointestinal issues.",
+          "warnings": "Use with caution in individuals with gastrointestinal disorders. Follow dosage instructions.",
+          "when_to_take": "Take after meals as needed for relief from indigestion.",
+          "expiration_days": 365,
+          "image_url": "https://5.imimg.com/data5/MG/UN/WV/SELLER-107312611/maxresdefault.jpg"
+      },
+      {
+          "id": "9",
+          "name": "Meftalspas",
+          "description1": "Meftalspas relieves menstrual pain and muscle spasms by combining mefenamic acid with other ingredients for pain relief.",
+          "description2": "It reduces inflammation and eases muscle tension. Take with food to minimize stomach upset.",
+          "description3": "Long-term use should be monitored by a healthcare provider to avoid potential gastrointestinal issues.",
+          "warnings": "Avoid if allergic to any component. Consult your doctor if you have a history of gastrointestinal issues.",
+          "when_to_take": "Take with food according to the dosage instructions on the label or as directed by your doctor.",
+          "expiration_days": 365,
+          "image_url": "https://www.jeevandip.com/wp-content/uploads/2021/08/MEFTAL-SPAS-TAB-0.png"
+      },
+      {
+          "id": "10",
+          "name": "Nimesilide",
+          "description1": "Nimesilide is an NSAID for pain relief and inflammation from osteoarthritis and musculoskeletal pain. It reduces fever and pain.",
+          "description2": "Use short-term due to potential liver toxicity. Regular monitoring is recommended for prolonged use.",
+          "description3": "Usually taken twice daily, preferably after meals. Consult a healthcare provider for long-term use.",
+          "warnings": "Not recommended for long-term use. Avoid in cases of liver impairment or other significant health issues.",
+          "when_to_take": "Usually taken twice daily, preferably after meals.",
+          "expiration_days": 365,
+          "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/7/330042758/EB/QF/XO/26342377/nimesulide-100-mg-tablets.jpg"
+      },
+      {
+          "id": "11",
+          "name": "Sinarest Tablets",
+          "description1": "Sinarest Tablets relieve symptoms of sinusitis and respiratory conditions like nasal congestion and sinus pain.",
+          "description2": "They address symptoms such as cough and runny nose. Be cautious of potential drowsiness.",
+          "description3": "Consult your doctor if symptoms persist or if you have other health concerns.",
+          "warnings": "May cause drowsiness. Avoid in children under 12 years and consult a doctor for prolonged symptoms.",
+          "when_to_take": "Take as directed, usually every 4-6 hours as needed.",
+          "expiration_days": 365,
+          "image_url": "https://images.apollo247.in/pub/media/catalog/product/S/I/SIN0204_1_1.jpg"
+      },
+      {
+          "id": "12",
+          "name": "Sinarest Cough Syrup",
+          "description1": "Sinarest Cough Syrup soothes cough and throat irritation from respiratory infections or allergies. It reduces cough frequency.",
+          "description2": "Effective for dry, irritating coughs. Follow dosing instructions carefully.",
+          "description3": "Consult a healthcare provider if symptoms persist or worsen.",
+          "warnings": "May cause drowsiness. Avoid in children under 6 years. Consult a doctor if symptoms persist.",
+          "when_to_take": "Usually taken every 6-8 hours as needed, but do not exceed the recommended dose.",
+          "expiration_days": 365,
+          "image_url": "https://www.netmeds.com/images/product-v1/600x600/360651/sinarest_syrup_100ml_43659_0_14.jpg"
+      },
+      {
+          "id": "13",
+          "name": "Aspirin",
+          "description1": "Aspirin reduces fever, pain, and inflammation, and is used in low doses to prevent heart attacks and strokes.",
+          "description2": "It works by inhibiting pain-causing chemicals in the body. Use cautiously if you have gastrointestinal issues or bleeding disorders.",
+          "description3": "Take with food to minimize stomach irritation. Follow dosing instructions to avoid side effects.",
+          "warnings": "Avoid if allergic to aspirin or if you have gastrointestinal bleeding issues. Not recommended for children with viral infections.",
+          "when_to_take": "Take with food to minimize stomach irritation. Follow the prescribed dosage to avoid potential side effects.",
+          "expiration_days": 365,
+          "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/320977720/SN/BK/LI/21276273/aspirin-tablet.jpeg"
+      },
+      {
+          "id": "14",
+          "name": "Ibuprofen",
+          "description1": "Ibuprofen is an NSAID used to relieve pain, reduce fever, and decrease inflammation. Commonly used for headaches, muscle aches, and arthritis.",
+          "description2": "It blocks prostaglandins, which cause inflammation and pain. Use with caution in individuals with gastrointestinal, kidney, or heart conditions.",
+          "description3": "Take every 4-6 hours as needed. Do not exceed the maximum daily dose to avoid side effects.",
+          "warnings": "Avoid if you have a history of gastrointestinal issues, kidney problems, or heart disease. Consult your doctor before use if you have underlying conditions.",
+          "when_to_take": "Take every 4-6 hours as needed. Do not exceed the maximum daily dose to avoid side effects.",
+          "expiration_days": 365,
+          "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/7/325863554/WI/JM/SY/135658020/ibuprofen-tablets-ip-200-mg-.jpg"
+      },
+      {
+          "id": "15",
+          "name": "Claritin",
+          "description1": "Claritin is an antihistamine that alleviates allergy symptoms like sneezing, runny nose, and itchy eyes. It generally does not cause drowsiness.",
+          "description2": "It blocks histamine to reduce allergy symptoms. Some individuals may experience drowsiness.",
+          "description3": "Follow the dosage instructions carefully and consult a healthcare provider if symptoms persist.",
+          "warnings": "May cause drowsiness in some people. Avoid alcohol and consult your doctor if you have chronic health conditions.",
+          "when_to_take": "Usually taken once daily. Follow the dosage instructions on the label or as directed by your healthcare provider.",
+          "expiration_days": 365,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTygfVIi4aU83SNMdQlCeh2fSDYCJfcX2JY3AGsWUzKXB7vZRe0gheWMRIkBWg1ZkvQuSM&usqp=CAU"
+      },
+      {
+          "id": "16",
+          "name": "Tetan-20",
+          "description1": "Tetan-20 is a tetanus booster vaccine recommended every 10 years to protect against tetanus infection.",
+          "description2": "Tetanus is a serious bacterial infection that affects the nervous system. The vaccine is crucial for maintaining immunity.",
+          "description3": "Consult with a healthcare provider to ensure timely vaccinations and boosters, especially after injuries.",
+          "warnings": "Consult your doctor if you have a history of severe allergic reactions to vaccines or other health concerns.",
+          "when_to_take": "Typically administered every 10 years for continued protection against tetanus.",
+          "expiration_days": 365,
+          "image_url": "https://www.netmeds.com/images/product-v1/600x600/46162/tetan_20mg_tablet_15_s_2.jpg"
+      },
+      {
+          "id": "17",
+          "name": "Petril-MD 0.25",
+          "description1": "Petril-MD 0.25 is used for managing anxiety and panic attacks by modulating brain chemistry.",
+          "description2": "It provides relief from excessive worry and stress but may cause drowsiness or dizziness.",
+          "description3": "Use caution when performing tasks requiring alertness. Consult with a healthcare provider for dosage adjustments or side effects.",
+          "warnings": "May cause drowsiness and dizziness. Avoid alcohol and other central nervous system depressants. Consult your doctor if you have a history of psychiatric disorders.",
+          "when_to_take": "Take as prescribed by your healthcare provider, usually once or twice daily.",
+          "expiration_days": 365,
+          "image_url": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/4eb8deffdcc644fda88b8bac0d776c28.jpg"
+      },
+      {
+          "id": "18",
+          "name": "Rabiros-D",
+          "description1": "Rabiros-D manages symptoms of GERD and other acid-related conditions by reducing stomach acid and improving gastrointestinal motility.",
+          "description2": "It helps alleviate symptoms like heartburn and regurgitation. Use it as directed for effective relief.",
+          "description3": "Consult with a healthcare provider for potential interactions and if symptoms persist.",
+          "warnings": "Consult your doctor if you have liver disease or are taking other medications. Follow the prescribed dosage.",
+          "when_to_take": "Typically taken once daily before a meal for optimal effectiveness.",
+          "expiration_days": 365,
+          "image_url": "https://images.apollo247.in/pub/media/catalog/product/r/a/rab0184_3.jpg"
+      }
+  ]
+}
